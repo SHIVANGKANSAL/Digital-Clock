@@ -1,0 +1,16 @@
+body {
+    background: rgb(186, 159, 254);
+    font-family: 'Satisfy', cursive;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(8, 38, 89);
+    font-size: 150px;
+    font-family: Orbitron;
+    letter-spacing: 10px;
+    font-family: 'Satisfy', cursive;
+}
